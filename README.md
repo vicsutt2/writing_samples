@@ -5,7 +5,7 @@
 [Consent Form](ConsentForm.pdf)
 
 ## Writing Sample #2: Diagram of Essay Components
-> The following writing sample is a diagram I produced while working as an undergraduate tutor at the University of Alabama at Birmingham’s writing center. A large portion of my job consists of explaining academic writing fundamentals to freshmen, such as how to write a thesis, structure an essay, or follow a specific style guide. Due to how often I repeat this information, I created this diagram to improve my efficiency and my clients' engagement during the tutoring session.Please note, I typically use this diagram in conjunction with a verbal explanation to appeal to both auditory and visual learning styles.
+> The following writing sample is a diagram I produced while working as an undergraduate tutor at the University of Alabama at Birmingham’s writing center. A large portion of my job consists of explaining academic writing fundamentals to freshmen, such as how to write a thesis, structure an essay, or follow a specific style guide. Due to how often I repeat this information, I created this diagram to improve my efficiency and my clients' engagement during the tutoring session. Please note, I typically use this diagram in conjunction with a verbal explanation to appeal to both auditory and visual learning styles.
 ![Diagram of Essay Components](EssayStructureDiagram.PNG)
 
 ## Writing Sample #3: Excerpt from a Research Paper
