@@ -11,3 +11,7 @@
 ## Writing Sample #3: Excerpt from a Research Paper
 > The following writing sample is an excerpt of a 16-page research paper I wrote for the University Honors Program’s interdisciplinary course. I was selected to present this paper at the Southern Regional Honors Council’s annual conference in early 2020 as well. My research explores the historical and cultural reasons behind gender inequality in authoritative positions of instrumental music (i.e. conductors, principal musicians soloists, and educators). The excerpt I have provided focuses primarily on employment demographics.
 [Excerpt from Research Paper](ResearchPaperExcerpt.pdf)
+
+## Writing Sample #4: GitHub Fundementals PowerPoint
+> The following 'writing' sample is a powerpoint I made for a Git and GitHub fundementals workshop that I led in January of 2023. The workshop was hosted by Women in Tech at UAB, an organization I founded in August of 2021, as part of a tech talk series to help interested UAB computer science students begin building their technical portfolios.
+[GitHub Fundementals PowerPoint](GitHub_Workshop.pdf)
